@@ -1,9 +1,9 @@
 n1= int(input("digite um valor:"))
-digite um valor:5
+digite um valor:
 >>> n2=int(input("outro valor:"))
-outro valor:5
+outro valor:
 >>> s=n1+n2
 >>> print("a soma é:"),s
 a soma é:
-(None, 10)
+
 >>>
